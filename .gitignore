@@ -1,1 +1,18 @@
 /docs
+
+# Video files (rekaman mentah kamera)
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Python & Environment
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# OS files
+Thumbs.db
+.DS_Store
